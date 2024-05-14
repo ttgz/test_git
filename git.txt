@@ -1,2 +1,3 @@
 mình đang làm việc trên branch dong
 và đây là commit trên branch dong
+thay đổi trên nhánh đông
